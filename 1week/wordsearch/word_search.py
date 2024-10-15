@@ -8,9 +8,7 @@ class Solution:
         visited = [[False] * m for _ in range(n)]
 
         def in_range(i, j):
-            if 0 <= i < n and 0 <= j < m:
-                return True
-            return False
+            return 0 <= i < n and 0 <= j < m
 
         def backTracking(i, j, w, visited):
             if not visited[i][j] and board[i][j] == word[w]:
