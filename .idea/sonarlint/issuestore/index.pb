@@ -74,3 +74,5 @@ C
 level0/wordErase.py,9/8/98e554e8b1a6681d7f5f6e4f974cdffe914bd6e0
 E
 level0/NumberCount.py,0/d/0d7557945a766a74b4e5be8cf9ba2d29cc593202
+L
+level0/StringRepeatOutput.py,0/b/0b52730c218dbd57d7ab2c493e3be8840c9f7b7b
