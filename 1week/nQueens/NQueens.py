@@ -32,8 +32,20 @@ class Solution:
                 j += 1
             return True
 
+        def solve(row):
+            if row == n:
+                answer.append(["".join(row) for row in board])
+                return
 
+            for col in range(n):
+                if isValid(board, row, col):
+                    board[row][col] = 'Q'
+                    solve(row + 1)
+                    board[row][col] = '.'
 
-        return []
+        answer = []
+        board = [["." for _ in range(n)] for _ in range(n)]
+        solve(0)
+        return answer
 
 print(Solution().solveNQueens(4))
