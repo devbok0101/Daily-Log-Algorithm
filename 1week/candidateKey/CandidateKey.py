@@ -2,7 +2,7 @@ from typing import List
 
 
 class Solution:
-    def solution(self, relation: List[List[str]]):
+    def solution(relation):
         answer = 0
         return answer
 
