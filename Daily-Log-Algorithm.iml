@@ -3,7 +3,10 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$" />
-    <orderEntry type="jdk" jdkName="Python 3.9 (Daily-Log-Algorithm)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.12 (pythonTest)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="948c46c5-90f1-469b-9e4f-c73b1c455da3" />
   </component>
 </module>

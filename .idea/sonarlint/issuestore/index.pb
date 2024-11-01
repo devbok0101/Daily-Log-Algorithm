@@ -20,3 +20,7 @@ S
 #.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
 ]
 -.idea/sonarlint/securityhotspotstore/index.pb,8/8/88a9255124c95bdc913197c120a8d560edc59c8e
+\
+,2week/dailyTemperatures/DailyTemperatures.py,3/6/360af998658b192047f92f5d866777e92ac254cb
+W
+'2week/dailyTemperatures/solvingThink.md,e/e/ee6ae39accc8773d7282c8e662bb17f9a4738a25
