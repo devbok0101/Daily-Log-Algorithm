@@ -4,22 +4,15 @@ from typing import List
 
 class Solution:
     def dailyTemperatures(self, temperatures: List[int]) -> List[int]:
-        start, last = 0, len(temperatures)
-        answer = [0 for _ in range(last)]
 
+        answer = [0] * len(temperatures)
         stack = []
-        while last - 1 >= start:
-            stack.append(temperatures[last - 1])
-            last -= 1
 
-        for index in range(len(temperatures)):
-            nowTemp = temperatures[index]
-            for i in range(index + 1):
-                stack.pop()
-            nextTemp = stack[0]
-
-
-
+        for day, temp in enumerate(temperatures):
+            while stack and stack[-1][1] < temp:
+                prev_day = stack.pop()[0]
+                answer[prev_day] = day - prev_day
+            stack.append((day, temp))
 
         return answer
 
