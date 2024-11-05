@@ -32,3 +32,7 @@ Q
 !2week/keyAndRooms/sovlingThink.md,a/0/a03754dcbe83b347236a037473561baa6d3cfe93
 S
 #2week/keyAndRooms/KeyAndRoomsBFS.py,f/4/f49240f89c540f9eb9939bfc3df9f1d78e05f567
+J
+2week/twoQueue/TwoQueue.py,7/6/76567dfa650f6eb351117cc823b703726e5f3493
+K
+2week/twoQueue/solvingThink,a/3/a3af8093b8cb2cf3517dd29c48e14ab2629063e6
