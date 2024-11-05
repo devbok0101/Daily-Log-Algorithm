@@ -14,3 +14,10 @@ https://school.programmers.co.kr/learn/courses/30/lessons/118667
 
 1. deque()를 쓰거나 투포인터를 쓰거나
 2. 매번 sum()하면 시간초과함, 제약조건 확인필 10의 8제곱 이상이면 O(n2) 로풀면 안됨
+
+
+1. 원형 큐, 순환 인덱싱
+```
+(right + 1) % len(queue)
+
+```
