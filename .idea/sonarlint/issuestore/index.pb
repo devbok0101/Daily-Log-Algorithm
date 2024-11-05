@@ -24,3 +24,9 @@ S
 ,2week/dailyTemperatures/DailyTemperatures.py,3/6/360af998658b192047f92f5d866777e92ac254cb
 W
 '2week/dailyTemperatures/solvingThink.md,e/e/ee6ae39accc8773d7282c8e662bb17f9a4738a25
+F
+Sales/SaleConvertor.py,2/5/250eeed52d77e3696dff9fdeeb1105b305723113
+P
+ 2week/keyAndRooms/KeyAndRooms.py,9/4/940bfdf39904611c41ef18dfcdf9be97dc9a85c8
+Q
+!2week/keyAndRooms/sovlingThink.md,a/0/a03754dcbe83b347236a037473561baa6d3cfe93
