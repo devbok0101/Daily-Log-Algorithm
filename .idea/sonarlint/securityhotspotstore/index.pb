@@ -30,3 +30,5 @@ P
  2week/keyAndRooms/KeyAndRooms.py,9/4/940bfdf39904611c41ef18dfcdf9be97dc9a85c8
 Q
 !2week/keyAndRooms/sovlingThink.md,a/0/a03754dcbe83b347236a037473561baa6d3cfe93
+S
+#2week/keyAndRooms/KeyAndRoomsBFS.py,f/4/f49240f89c540f9eb9939bfc3df9f1d78e05f567
