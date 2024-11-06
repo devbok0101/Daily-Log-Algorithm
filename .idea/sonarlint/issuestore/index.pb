@@ -38,3 +38,9 @@ K
 2week/twoQueue/solvingThink,a/3/a3af8093b8cb2cf3517dd29c48e14ab2629063e6
 T
 $2week/twoQueue/TwoQueueTwoPointer.py,0/4/04fcfc818e311b444ad9f52571a5c3a11c08c5e4
+\
+,2week/trappingRainWater/TrappingRainWater.py,9/5/95a179b7e01e1913026637b250585b0b6a8c5722
+T
+$2week/trappingRainWater/solvingThink,b/d/bd65b19a2878a49dcfb06dbb015ae8dabca9b450
+W
+'2week/trappingRainWater/solvingThink.md,6/f/6fcc082f398fc4e6088e25a119ffe89815185f9e
