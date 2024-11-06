@@ -46,3 +46,9 @@ W
 '2week/trappingRainWater/solvingThink.md,6/f/6fcc082f398fc4e6088e25a119ffe89815185f9e
 f
 62week/trappingRainWater/TrappingRainWaterTwoPointer.py,f/9/f97a90e872d8c115940dd68f0d780de58483a155
+b
+22week/longestValidParentheses/TrappingRainWater.py,d/1/d1310a7cf63f49955889d5d2a8b09c2ebfea3c61
+h
+82week/longestValidParentheses/longestValidParentheses.py,1/f/1f44bc33001e3370efaa6c29e159eae925751a49
+]
+-2week/longestValidParentheses/solvingThink.md,9/8/9858f6b82dc06391c8c88a89afbc84de9180bf4d
