@@ -52,3 +52,5 @@ R
 "2week/sheepAndWolf/SheepAndWolf.py,1/2/12d4c74007f9feccce755634ea3e5e2b522b4c0b
 R
 "2week/sheepAndWolf/solvingThink.md,f/8/f8cb8dbb1379013793a81334b580130ce1edbebe
+G
+level0/numerAndDenom.py,1/5/150a47837e5f12d184a8a059d349da25a336c2fc
