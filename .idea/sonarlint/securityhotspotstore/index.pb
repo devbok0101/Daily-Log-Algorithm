@@ -54,3 +54,7 @@ R
 "2week/sheepAndWolf/solvingThink.md,f/8/f8cb8dbb1379013793a81334b580130ce1edbebe
 G
 level0/numerAndDenom.py,1/5/150a47837e5f12d184a8a059d349da25a336c2fc
+H
+level0/subStringCheck.py,a/8/a84748dcbf98504ffb945271151b33172480a444
+B
+level0/forkshop.py,0/b/0b56e5894b4426b1510dcf31d862a5bb63344f58
