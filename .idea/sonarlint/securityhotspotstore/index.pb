@@ -58,3 +58,7 @@ H
 level0/subStringCheck.py,a/8/a84748dcbf98504ffb945271151b33172480a444
 B
 level0/forkshop.py,0/b/0b56e5894b4426b1510dcf31d862a5bb63344f58
+E
+brute_force/minBox.py,5/a/5a5e836e933c196fa96471306be92baf2056eeb0
+I
+brute_force/solveThink.md,c/9/c9694ce7b2b1e9cbcd99861a1cbfe5687c0067d7
