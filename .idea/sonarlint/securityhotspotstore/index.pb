@@ -62,3 +62,9 @@ E
 brute_force/minBox.py,5/a/5a5e836e933c196fa96471306be92baf2056eeb0
 I
 brute_force/solveThink.md,c/9/c9694ce7b2b1e9cbcd99861a1cbfe5687c0067d7
+M
+full_search/simulationTest.py,7/5/754aeb76583531f134d55b67d55d5f4590dd7428
+R
+"full_search/simulationTestThink.md,7/8/78280d0c33f605715887f10418499730b5970648
+E
+level0/listReverse.py,a/a/aa72442de91ad045ed31b7f7f238a3adc3a1e82e
