@@ -72,3 +72,5 @@ C
 level0/squareNum.py,c/7/c71aef34bd11844ca8b25fe910975afb608dbb10
 D
 level0/90triangle.py,2/5/25515ad1e71a5719051b48d41a95f5d4a330d0e5
+C
+level0/wordErase.py,9/8/98e554e8b1a6681d7f5f6e4f974cdffe914bd6e0
