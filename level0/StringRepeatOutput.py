@@ -1,12 +1,6 @@
 # https://school.programmers.co.kr/learn/courses/30/lessons/120825
 
 def solution(my_string, n):
-    answer = ''
-
-    for str in my_string:
-        str = str * n
-        answer += str
-
-    return answer
+    return ''.join(string * n for string in my_string)
 
 print(solution('hello', 3))
