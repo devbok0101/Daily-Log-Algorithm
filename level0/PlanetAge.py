@@ -3,17 +3,16 @@ from collections import defaultdict
 
 
 def solution(age):
-    answer = ''
+    spell = create_spell_map()
+    return ''.join(spell[int(num)] for num in str(age))
+
+
+def create_spell_map():
     ans = defaultdict()
     spell = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j']
-
     for i in range(0, 10):
         ans[i] = spell[i]
-
-    for num in str(age):
-        answer += spell[int(num)]
-
-    return answer
+    return spell
 
 
 print(solution(23))
