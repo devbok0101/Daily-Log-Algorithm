@@ -76,3 +76,13 @@ E
 level0/NumberCount.py,0/d/0d7557945a766a74b4e5be8cf9ba2d29cc593202
 L
 level0/StringRepeatOutput.py,0/b/0b52730c218dbd57d7ab2c493e3be8840c9f7b7b
+B
+level0/Cut_list.py,8/b/8b1b2d0cd20c86491ff38762b20e37f5808b1cd2
+C
+level0/PlanetAge.py,d/b/db85327cd219a83c74432ef3c3ac1ee7792ea623
+C
+level0/Emergency.py,2/b/2bf3140fc3061714171d343f1d14d7e5683e76dc
+D
+level0/OrderdPair.py,4/0/402415a2665dff71f859642c85b6c4d97e4a4b29
+>
+level0/Ants.py,7/f/7f68dd9dffe16ec14e4f25528680b86d091997dc
