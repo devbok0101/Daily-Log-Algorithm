@@ -2,21 +2,12 @@
 
 
 def solution(hp):
-    if hp == 0:
-        return 0
-    generalAntCount = hp // 5
-    remain = hp % 5
-    if remain == 0:
-        return generalAntCount
-
-    if remain > 0:
-        armyAntCount = remain // 3
-        lastRemain = remain % 3
-
-        if lastRemain > 0:
-            return generalAntCount + armyAntCount + lastRemain
-        else:
-            return generalAntCount + armyAntCount
+    answer = hp // 5
+    hp %= 5
+    answer += hp // 3
+    hp %= 3
+    answer += hp // 1
+    return answer
 
 print(solution(1000))
 print(solution(24))
