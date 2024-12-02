@@ -86,3 +86,5 @@ D
 level0/OrderdPair.py,4/0/402415a2665dff71f859642c85b6c4d97e4a4b29
 >
 level0/Ants.py,7/f/7f68dd9dffe16ec14e4f25528680b86d091997dc
+C
+level0/MorseCode.py,6/e/6ecd41989aa8c07ec58345c250221ed2f7ba8093
