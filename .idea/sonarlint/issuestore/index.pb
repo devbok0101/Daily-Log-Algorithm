@@ -90,3 +90,5 @@ C
 level0/MorseCode.py,6/e/6ecd41989aa8c07ec58345c250221ed2f7ba8093
 K
 level0/LockScissorsPaper.py,7/b/7bfd76ebe983473d45e5c76dac1d63c306c873d6
+E
+level0/DivideBalls.py,2/3/23edd094d785a8e0d92f40cdc7f8e9b5fbf78941
