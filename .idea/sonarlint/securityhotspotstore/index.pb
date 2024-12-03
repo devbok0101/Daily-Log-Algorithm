@@ -88,3 +88,5 @@ D
 level0/Ants.py,7/f/7f68dd9dffe16ec14e4f25528680b86d091997dc
 C
 level0/MorseCode.py,6/e/6ecd41989aa8c07ec58345c250221ed2f7ba8093
+K
+level0/LockScissorsPaper.py,7/b/7bfd76ebe983473d45e5c76dac1d63c306c873d6
