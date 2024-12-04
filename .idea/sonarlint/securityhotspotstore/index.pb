@@ -94,3 +94,5 @@ E
 level0/DivideBalls.py,2/3/23edd094d785a8e0d92f40cdc7f8e9b5fbf78941
 N
 level0/DivideBallsRecursive.py,9/c/9cc1fa285f1d4eec8e7e6be93395c19efd49add6
+F
+level0/FindDotPlace.py,3/7/37d0dedc5cfa74872391901e5a1d73deb283cc9c
