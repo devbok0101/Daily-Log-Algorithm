@@ -15,6 +15,9 @@ def solution(numbers, k):
 
     return answer
 
-print(solution([1, 2, 3, 4], 2))
-print(solution([1, 2, 3, 4, 5, 6], 5))
-print(solution([1, 2, 3], 3))
+def solution2(numbers, k):
+    return numbers[(2 * (k - 1)) % len(numbers)]
+
+print(solution2([1, 2, 3, 4], 2))
+print(solution2([1, 2, 3, 4, 5, 6], 5))
+print(solution2([1, 2, 3], 3))
