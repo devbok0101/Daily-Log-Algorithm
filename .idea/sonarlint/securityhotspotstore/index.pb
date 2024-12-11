@@ -100,3 +100,5 @@ F
 level0/2DMake.py,f/0/f0d7c94ed61c948b2c88e9734e3dd3f497fdbf0f
 C
 level0/ThrowBall.py,9/b/9b99a7eac73ef62b908499f1efa5edd8524bac54
+B
+level0/ListSpin.py,0/c/0c449ea234d935590018035af9068f9e39586ca2
