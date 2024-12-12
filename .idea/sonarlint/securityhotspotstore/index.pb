@@ -106,3 +106,5 @@ C
 level0/CountDice.py,a/f/af5b55aba13ed5b11b23eb5d50d7009f6c131742
 I
 level0/CompositeNumber.py,f/b/fbb459208bf159fdbbe3f5fa3e1eee42ac9a4e65
+F
+level0/CreateMaxNum.py,7/1/71683a1687935326cc998840ff5379983d3eaf4d
