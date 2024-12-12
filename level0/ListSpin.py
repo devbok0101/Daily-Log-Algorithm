@@ -1,4 +1,6 @@
 # https://school.programmers.co.kr/learn/courses/30/lessons/120844?language=python3
+from collections import deque
+
 
 def solution(numbers, direction):
     if direction == 'left':
@@ -13,5 +15,15 @@ def solution(numbers, direction):
         numbers.insert(0, last_num)
         return numbers
 
-print(solution([1, 2, 3], 'right'))
-print(solution([1, 2, 3], 'left'))
+def solution2(numbers, direction):
+    numbers_que = deque(numbers)
+
+    if direction == "right":
+        numbers_que.rotate(1)
+    if direction == "left":
+        numbers_que.rotate(-1)
+
+    return list(numbers_que)
+
+print(solution2([1, 2, 3], 'right'))
+print(solution2([1, 2, 3], 'left'))
