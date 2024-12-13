@@ -2,6 +2,7 @@
 from collections import deque
 
 
+# 시간복잡도 기준으로 insert(0, ...)는 O(n)이므로 비효율적
 def solution(numbers, direction):
     if direction == 'left':
         first_num = numbers[0]
@@ -15,6 +16,7 @@ def solution(numbers, direction):
         numbers.insert(0, last_num)
         return numbers
 
+# 시간복잡도 기준으로 deque를 양쪽 끝에서 삽입 삭제가 O(1)이므로 효율적
 def solution2(numbers, direction):
     numbers_que = deque(numbers)
 
