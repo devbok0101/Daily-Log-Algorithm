@@ -102,3 +102,5 @@ C
 level0/ThrowBall.py,9/b/9b99a7eac73ef62b908499f1efa5edd8524bac54
 B
 level0/ListSpin.py,0/c/0c449ea234d935590018035af9068f9e39586ca2
+C
+level0/CountDice.py,a/f/af5b55aba13ed5b11b23eb5d50d7009f6c131742
