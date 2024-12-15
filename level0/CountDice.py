@@ -10,6 +10,7 @@ def solution(box, n):
 
     return answer
 
+# prod == *= 와 동일하다.
 def solution2(box, n):
     return prod([length // n for length in box])
 
