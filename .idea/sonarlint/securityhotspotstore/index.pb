@@ -110,3 +110,5 @@ F
 level0/CreateMaxNum.py,7/1/71683a1687935326cc998840ff5379983d3eaf4d
 C
 level0/factorial.py,b/3/b3aebc8f14f9cb34332ac6c1c0029b9780976686
+E
+level0/DeleteVowel.py,1/a/1ac483cb96f35a75e6ed8708d3e75f8e7dec5781
