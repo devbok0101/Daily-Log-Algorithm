@@ -108,3 +108,5 @@ I
 level0/CompositeNumber.py,f/b/fbb459208bf159fdbbe3f5fa3e1eee42ac9a4e65
 F
 level0/CreateMaxNum.py,7/1/71683a1687935326cc998840ff5379983d3eaf4d
+C
+level0/factorial.py,b/3/b3aebc8f14f9cb34332ac6c1c0029b9780976686
