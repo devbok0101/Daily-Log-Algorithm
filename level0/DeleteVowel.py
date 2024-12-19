@@ -8,8 +8,11 @@ def solution(my_string):
             continue
         else:
             answer += word
-
     return answer
 
 
-print(solution("bus"))
+def solution2(my_string):
+    return "".join([i for i in my_string if i not in "aeiou"])
+
+
+print(solution2("bus"))
