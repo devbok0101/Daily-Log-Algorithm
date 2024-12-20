@@ -15,5 +15,8 @@ def soulution2(my_string):
     nums = [str(i) for i in range(0,10)]
     return sorted([int(i) for i in my_string if i in nums])
 
+def soulution3(my_string):
+    return sorted([int(i) for i in my_string if i.isdigit()])
 
-print(soulution2("hi12392"))
+
+print(soulution3("hi12392"))
