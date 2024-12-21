@@ -112,3 +112,5 @@ C
 level0/factorial.py,b/3/b3aebc8f14f9cb34332ac6c1c0029b9780976686
 E
 level0/DeleteVowel.py,1/a/1ac483cb96f35a75e6ed8708d3e75f8e7dec5781
+G
+level0/SortingString.py,8/9/896061dc0337e872d259e4991c4eb6bc3e39d0fd
