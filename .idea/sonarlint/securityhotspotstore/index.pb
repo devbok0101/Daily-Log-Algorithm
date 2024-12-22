@@ -114,3 +114,5 @@ E
 level0/DeleteVowel.py,1/a/1ac483cb96f35a75e6ed8708d3e75f8e7dec5781
 G
 level0/SortingString.py,8/9/896061dc0337e872d259e4991c4eb6bc3e39d0fd
+C
+level0/AddNumber.py,a/0/a09d20e68a661cf391ed492c3c7006fcfee40768
