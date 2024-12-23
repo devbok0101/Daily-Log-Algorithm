@@ -7,4 +7,7 @@ def solution(my_string):
             answer += int(word)
     return answer
 
-print(solution("aAb1B2cC34oOp"))
+def solution2(my_string):
+    return sum([int(word) for word in my_string if word.isdigit()])
+
+print(solution2("aAb1B2cC34oOp"))
