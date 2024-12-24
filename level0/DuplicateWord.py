@@ -10,5 +10,8 @@ def solution(my_string):
     return "".join(i for i in answer)
 
 
-print(solution("people"))
-print(solution("We are the world"))
+def solution2(my_string):
+    return "".join(dict.fromkeys(my_string))
+
+print(solution2("people"))
+print(solution2("We are the world"))
