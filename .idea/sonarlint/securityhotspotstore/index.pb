@@ -116,3 +116,5 @@ G
 level0/SortingString.py,8/9/896061dc0337e872d259e4991c4eb6bc3e39d0fd
 C
 level0/AddNumber.py,a/0/a09d20e68a661cf391ed492c3c7006fcfee40768
+L
+level0/PrimeFactorization.py,5/5/55e47d43df7efa6672988d1a65bfd5c73d6a8cf8
