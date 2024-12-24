@@ -3,29 +3,29 @@ import math
 
 
 def solution(n):
-    nums = [2, 3, 5, 7, 11, 13, 17, 19]
     answer = []
+    d = 2
 
-    for num in nums:
-        while n % num == 0:
-            if num not in answer:
-                answer.append(num)
-            n = n // num
+    while d * d <= n:
+        if n % d == 0:
+            answer.append(d)
+            while n % d == 0:  # 동일 소인수를 모두 제거
+                n //= d
+        else:
+            d += 1
 
-    if n != 1:
+    if n > 1:  # 나머지가 1보다 크다면 소수
         answer.append(n)
 
     return answer
-
-
 
 
 def sol():
     for num in range(2, 10001):
         print(solution(num))
 
-#print(solution(17))
+print(solution(143))
 #print(solution(2197))
-print(solution(1331))
+#print(solution(1331))
 #print(solution(10000))
-print(sol())
+#print(sol())
