@@ -122,3 +122,5 @@ B
 level0/ControlZ.py,7/a/7a941a4b4332942837870b916af0fd5a805d5204
 G
 level0/DuplicateWord.py,c/0/c088b5eaaf2b10cf6f4936c5a7f417c24d706f6d
+B
+level0/Triangle.py,e/c/ecd7977787dbd4377c57ac6f4617795815fcbca0
