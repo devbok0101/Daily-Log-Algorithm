@@ -17,8 +17,20 @@ def solution(s):
 
     return answer
 
-print(solution("1 2 Z 3"))
-print(solution("10 20 30 40"))
-print(solution("10 Z 20 Z 1"))
-print(solution("10 Z 20 Z"))
-print(solution("-1 -2 -3 Z"))
+def solution2(s):
+    stack = []
+    letters = s.split()
+
+    for word in letters:
+        if word != 'Z':
+            stack.append(int(word))
+        else:
+            stack.pop()
+
+    return sum(stack)
+
+print(solution2("1 2 Z 3"))
+#print(solution("10 20 30 40"))
+#print(solution("10 Z 20 Z 1"))
+#print(solution("10 Z 20 Z"))
+#print(solution("-1 -2 -3 Z"))
