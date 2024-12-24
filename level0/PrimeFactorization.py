@@ -3,7 +3,7 @@ import math
 
 
 def solution(n):
-    nums = [2,3,5,7, 11, 13, 17, 19]
+    nums = [2, 3, 5, 7, 11, 13, 17, 19]
     answer = []
 
     for num in nums:
