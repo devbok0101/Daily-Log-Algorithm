@@ -124,3 +124,5 @@ G
 level0/DuplicateWord.py,c/0/c088b5eaaf2b10cf6f4936c5a7f417c24d706f6d
 B
 level0/Triangle.py,e/c/ecd7977787dbd4377c57ac6f4617795815fcbca0
+C
+level0/nearCount.py,8/a/8af71dec2d3a043f892029a6385a09c6db134833
