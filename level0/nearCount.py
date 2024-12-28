@@ -9,6 +9,11 @@ def solution(array, n):
             answer = min(answer, number)
     return answer
 
-print(solution([3, 10, 28], 20))
-print(solution([4, 7], 1))
-print(solution([10, 11, 12], 13))
+def solution1(array, n):
+    array.sort()
+    temp = [abs(n - i) for i in array]
+    return array[temp.index(min(temp))]
+
+print(solution1([3, 10, 28], 20))
+print(solution1([4, 7], 1))
+print(solution1([10, 11, 12], 13))
