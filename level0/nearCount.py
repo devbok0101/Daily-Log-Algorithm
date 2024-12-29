@@ -10,9 +10,7 @@ def solution(array, n):
     return answer
 
 def solution1(array, n):
-    array.sort()
-    temp = [abs(n - i) for i in array]
-    return array[temp.index(min(temp))]
+    return min(array, key = lambda x : (abs(n - x), x))
 
 print(solution1([3, 10, 28], 20))
 print(solution1([4, 7], 1))
