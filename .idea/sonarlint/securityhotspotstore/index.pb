@@ -126,3 +126,5 @@ B
 level0/Triangle.py,e/c/ecd7977787dbd4377c57ac6f4617795815fcbca0
 C
 level0/nearCount.py,8/a/8af71dec2d3a043f892029a6385a09c6db134833
+B
+level0/369games.py,3/f/3f9256e089b53faba1b0e1ab7d11bdf5b9374a3f
